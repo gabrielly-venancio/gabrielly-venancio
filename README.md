@@ -32,7 +32,6 @@ Sou apaixonada por tecnologia e desenvolvimento de software. Adoro aprender cois
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielly-venancio&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 
-🚀 Sinta-se à vontade para explorar meus repositórios e se conectar comigo!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielly-venancio&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 
